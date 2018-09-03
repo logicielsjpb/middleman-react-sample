@@ -1,4 +1,6 @@
-This is a sample project that integrates React in a middleman site.
+This is a sample project that integrates React in a middleman site. 
+
+Created from Middleman React Example by Sean Eshbaugh (https://github.com/seaneshbaugh/middleman-react-example.git)
 
 Required files for new middleman-react projects:
 * .babelrc
