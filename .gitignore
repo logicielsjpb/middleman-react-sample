@@ -1,9 +1,9 @@
 .bundle
 .cache
 .DS_Store
-.sass-cache
+.sass-cache/
 build/
-.idea
+.idea/
 
 # Ignore native extensions in the node_modules folder (things changed by npm rebuild)
 node_modules/**/*.node
