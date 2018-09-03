@@ -1,8 +1,12 @@
 {
-  "name": "test-project",
+  "name": "middleman-react-sample",
   "version": "0.0.1",
-  "description": "Middleman React Example",
+  "description": "Middleman React Sample",
   "main": "gulpfile.js",
+  "engines": {
+    "node": "10.4.1",
+    "npm": "6.1.0"
+  },
   "dependencies": {
     "react": "^0.14.7",
     "react-dom": "^0.14.7"
@@ -17,5 +21,10 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+//  "repository": {
+//    "type": "git",
+//    "url": "git+https://github.com/seaneshbaugh/middleman-react-example.git"
+//  },
+  "author": "Jean-Philippe Boily, eng. <jpboily@logicielsjpb.com>",
 }
